@@ -24,3 +24,8 @@ function addition (x,y){
 }
 
 addition(12,4)
+
+function sub(b,c) {
+    var result = b-c;
+    console.log('')
+}
